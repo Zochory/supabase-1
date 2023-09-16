@@ -11,3 +11,7 @@ sw.js
 .output
 .env
 .history
+
+# Supabase
+.branches
+.temp
